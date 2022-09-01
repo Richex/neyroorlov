@@ -18,3 +18,9 @@ __    __                                                              __
 Бот содержит 242 уникальные фразы. Подключается через Telegram [@neyroorlov_bot](https://t.me/neyroorlov_bot). 
 
 Реагирует на упоминание его в разговоре по имени <strong>Нейроорлов</strong>, <strong>@Нейроорлов</strong>, <strong>@neyroorlov_bot</strong>, <strong>нейро орлов</strong>, а так же на некоторые слова-триггеры - <strong>жаль</strong>, <strong>жалко</strong>, <strong>рвись</strong>, <strong>порвался</strong>.
+
+<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/1.jpg" />
+
+<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/2.jpg" />
+
+<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/3.jpg" />
