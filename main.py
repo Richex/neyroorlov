@@ -336,7 +336,7 @@ uncommon_text = ['JAL',
 
 # триггеры для активации бота
 triggers = ['нейроорлов', '@Нейроорлов', '@neyroorlov_bot', 'нейро орлов']
-triggers_jal = ['жаль', 'жалко']
+triggers_jal = ['жаль', 'жалко', 'рвись', 'порвался']
 
 
 @bot.message_handler(commands=['start'])
@@ -356,7 +356,6 @@ def handle_message(message):
             if trigger in message.text.lower():
                 bot.send_message(message.chat.id, random.choice(common_text))
 
-    elif message.chat.type == "group" or message.chat.type == "supergroup" or message.chat.type == "channel":
         # проверка на ключевое слово 'жаль' и отправка случайного ответа из массива uncommon_text
         for jal in triggers_jal:
             if jal in message.text.lower():
