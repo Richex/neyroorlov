@@ -356,7 +356,7 @@ def handle_message(message):
             if trigger in message.text.lower():
                 bot.send_message(message.chat.id, random.choice(common_text))
 
-        # проверка на ключевое слово 'жаль' и отправка случайного ответа из массива uncommon_text
+        # проверка на ключевое слово "жаль" и отправка случайного ответа из массива uncommon_text
         for jal in triggers_jal:
             if jal in message.text.lower():
                 bot.send_message(message.chat.id, random.choice(uncommon_text))
