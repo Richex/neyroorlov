@@ -1,4 +1,4 @@
-## ⚡ Бот @Нейроорлов <img height="12" src="https://img.shields.io/badge/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BE%D1%80%D0%BB%D0%BE%D0%B2-no%20anime-red" />
+## ⚡ Бот @Нейроорлов <img height="16" src="https://img.shields.io/badge/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BE%D1%80%D0%BB%D0%BE%D0%B2-no%20anime-red" />
 
 ```text
 __    __                                                              __                     
