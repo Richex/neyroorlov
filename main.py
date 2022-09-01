@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot('5759691133:AAG2iDdP3zSBUIl12B2iZvNBObDM8gy5BR4', parse_mode='html')
+bot = telebot.TeleBot('YOUR_BOT_ID:YOUR_BOT_TOKEN', parse_mode='html')
 
 start_text = ['БАРНАУЛ ОБЩИЙ СБОР',
               'Бип-боп',
