@@ -21,6 +21,6 @@ __    __                                                              __
 
 <img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/1.jpg" />
 
-<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/2.jpg" />
+<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/2.png" />
 
-<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/3.jpg" />
+<img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/3.png" />
