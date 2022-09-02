@@ -518,7 +518,7 @@ Ne rvis. Я серьезно
 <details>
 <summary><b>Как установить через Heroku</b></summary>
 
-[![BG](https://img.youtube.com/vi/_WxRbxK2ClA/0.jpg)](https://www.youtube.com/watch?v=_WxRbxK2ClA)
+[![BG](https://i.imgur.com/Hlz7Cba.jpg)](https://www.youtube.com/watch?v=_WxRbxK2ClA)
 
 </details>
 
