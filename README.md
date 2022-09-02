@@ -514,3 +514,11 @@ Ne rvis. Я серьезно
 ⚡️ТАСС: уход Дмитрия Орлова с TJ оказался фейком
 
 </details>
+
+<details>
+<summary><b>Как установить через Heroku</b></summary>
+
+[![BG](https://img.youtube.com/vi/_WxRbxK2ClA/0.jpg)](https://www.youtube.com/watch?v=_WxRbxK2ClA)
+
+</details>
+
