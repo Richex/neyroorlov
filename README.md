@@ -17,7 +17,7 @@ __    __                                                              __
 
 Бот содержит 242 уникальные фразы. Подключается через Telegram [@neyroorlov_bot](https://t.me/neyroorlov_bot). 
 
-Бота так же можно добавить в групповой чат как обычного пользователя. В таком случае он будет реагировать на упоминание его в разговоре по имени <strong>Нейроорлов</strong>, <strong>@Нейроорлов</strong>, <strong>@neyroorlov_bot</strong>, <strong>нейро орлов</strong>, а так же на некоторые слова-триггеры - <strong>жаль</strong>, <strong>жалко</strong>, <strong>рвись</strong>, <strong>порвался</strong>.
+Бота можно добавить в групповой чат как обычного пользователя. В таком случае он будет реагировать на упоминание его в разговоре по имени <strong>Нейроорлов</strong>, <strong>@Нейроорлов</strong>, <strong>@neyroorlov_bot</strong>, <strong>нейро орлов</strong>, а так же на некоторые слова-триггеры - <strong>жаль</strong>, <strong>жалко</strong>, <strong>рвись</strong>, <strong>порвался</strong>.
 
 <img src="https://raw.githubusercontent.com/Richex/neyroorlov/main/img/1.jpg" />
 
