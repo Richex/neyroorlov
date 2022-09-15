@@ -308,7 +308,7 @@ common_text = ['ЗАБЫТЬ СПРОСИЛИ АХАХАХАХАХА!!!!',
                'Ясно',
                '⚡️ТАСС: уход Дмитрия Орлова с TJ оказался фейком']
 
-uncommon_text = ['JAL',
+jal_responce = ['JAL',
                  'NE RVIS',
                  'Ne rviS i hvatit menya travIt',
                  'Ne rvis. Я серьезно',
@@ -387,7 +387,7 @@ uncommon_text = ['JAL',
                  'Ясно']
 
 # триггеры для активации бота
-triggers = ['нейроорлов', '@Нейроорлов', '@neyroorlov_bot', 'нейро орлов']
+trig_names = ['нейроорлов', '@Нейроорлов', '@neyroorlov_bot', 'нейро орлов']
 triggers_jal = ['жаль', 'жалко', 'рвись', 'порвался']
 
 
@@ -404,16 +404,16 @@ def handle_message(message):
 
     elif message.chat.type == "group" or message.chat.type == "supergroup" or message.chat.type == "channel":
         # проверка упоминания имени бота и отправка случайного ответа из массива common_text
-        for trigger in triggers:
+        for trigger in trig_names:
             if trigger in message.text.lower():
                 bot.send_message(message.chat.id, random.choice(common_text))
 
         # проверка на ключевое слово 'жаль' и отправка случайного ответа из массива uncommon_text
         for jal in triggers_jal:
-            trigger_chance = random.randint(18, 36)
-            trigger_chance_generate = random.randint(0, 100)
-            if jal in message.text.lower():
-                bot.send_message(message.chat.id, random.choice(uncommon_text))
+            chance_rnd = random.randint(18, 36)
+            full_stack = random.randint(0, 100)
+            if jal in message.text.lower() and full_stack <= chance_rnd:
+                bot.send_message(message.chat.id, random.choice(jal_responce))
 
 
 bot.polling(none_stop=True)
